@@ -63,6 +63,36 @@ Dashboard Visuals
 | Referral Source Distribution | Analyzes which channels contribute most to revenue |
 | Payment Method Distribution | Shows customer payment preferences 
 
-## Outcome
+## Key Findings
+1 Highest Revenue-Generating Product: Chair with approximately $160K in revenue.
+2 Second Highest Revenue-Generating Product: Printer with approximately $150K in revenue.
+3 Leading Referral Source: Instagram, contributing the largest share of customer traffic.
+4 Most Preferred Payment Method: Credit Card, followed closely by Online Payment.
+5 Order Status Analysis: Cancelled and returned orders account for a significant portion of total orders, indicating opportunities for improving order fulfillment and customer satisfaction.
 
-Successfully built an interactive dashboard that transformed raw e-commerce data into actionable insights and improved understanding of sales performance.
+## Recommendations
+
+1. **Focus on High-Performing Products**
+
+   * Increase inventory and promotional efforts for top-performing products such as Chairs and Printers, as they contribute significantly to overall revenue.
+
+2. **Leverage High-Performing Referral Channels**
+
+   * Invest more in marketing channels such as Instagram, which generate the highest customer traffic and sales.
+
+3. **Improve Order Fulfillment Processes**
+
+   * Investigate the causes of cancelled and returned orders and implement measures to improve delivery efficiency and customer satisfaction.
+
+4. **Optimize Payment Experience**
+
+   * Enhance and maintain the most preferred payment options, particularly Credit Card and Online Payment methods, to ensure a seamless customer experience.
+
+5. **Monitor Sales Trends**
+
+   * Continuously track monthly revenue trends to identify seasonal patterns and support strategic planning and forecasting.
+
+## Conclusion
+
+The dashboard provided valuable insights into the company's sales performance, customer behavior, and operational efficiency. The analysis revealed key revenue drivers, customer preferences, and areas requiring improvement. High-performing products and referral channels were identified, while the distribution of order statuses highlighted opportunities to enhance customer satisfaction. Overall, the dashboard demonstrates how data visualization can transform raw transactional data into actionable insights that support informed business decisions and sustainable growth.
+
