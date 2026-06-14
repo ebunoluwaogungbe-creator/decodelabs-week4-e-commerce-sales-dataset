@@ -6,14 +6,14 @@ Interactive e-commerce sales dashboard built in Excel to visualize trends, analy
 
 The Dataset Contains Sales Information which includes the following:
 
-Order Details – Order ID, order date, and order status.
-Customer Information – Customer ID and shipping address.
-Product Information – Product names, quantity purchased, and unit prices.
-Sales Information – Total price and revenue generated from each order.
-Payment Information – Payment methods used by customers.
-Shipping Information – Tracking numbers and delivery status.
-Shopping Behavior – Number of items added to cart and coupon usage.
-Marketing Information – Referral sources that brought customers to the platform.
+- Order Details – Order ID, order date, and order status.
+- Customer Information – Customer ID and shipping address.
+- Product Information – Product names, quantity purchased, and unit prices.
+- Sales Information – Total price and revenue generated from each order.
+- Payment Information – Payment methods used by customers.
+- Shipping Information – Tracking numbers and delivery status.
+- Shopping Behavior – Number of items added to cart and coupon usage.
+- Marketing Information – Referral sources that brought customers to the platform.
 
 ## Project Objective
 
