@@ -56,6 +56,7 @@ The Dataset Contains Sales Information which includes the following:
 
 Dashboard Visuals
 | --- | --- |
+| Visual | Description |
 | Monthly Revenue Trend | Tracks revenue performance over time |
 | Top Products by Revenue | Highlights the products generating the highest revenue |
 | Order Status Distribution | Shows the breakdown of delivered, shipped, pending, returned, and cancelled orders |
