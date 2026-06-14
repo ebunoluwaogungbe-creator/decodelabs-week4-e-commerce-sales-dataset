@@ -64,11 +64,11 @@ Dashboard Visuals
 | Payment Method Distribution | Shows customer payment preferences 
 
 ## Key Findings
-1 Highest Revenue-Generating Product: Chair with approximately $160K in revenue.
-2 Second Highest Revenue-Generating Product: Printer with approximately $150K in revenue.
-3 Leading Referral Source: Instagram, contributing the largest share of customer traffic.
-4 Most Preferred Payment Method: Credit Card, followed closely by Online Payment.
-5 Order Status Analysis: Cancelled and returned orders account for a significant portion of total orders, indicating opportunities for improving order fulfillment and customer satisfaction.
+1. Highest Revenue-Generating Product: Chair with approximately $160K in revenue.
+2. Second Highest Revenue-Generating Product: Printer with approximately $150K in revenue.
+3. Leading Referral Source: Instagram, contributing the largest share of customer traffic.
+4. Most Preferred Payment Method: Credit Card, followed closely by Online Payment.
+5. Order Status Analysis: Cancelled and returned orders account for a significant portion of total orders, indicating opportunities for improving order fulfillment and customer satisfaction.
 
 ## Recommendations
 
