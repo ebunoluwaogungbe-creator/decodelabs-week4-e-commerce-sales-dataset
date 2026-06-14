@@ -52,7 +52,15 @@ The Dataset Contains Sales Information which includes the following:
 
 ## Dashboard Preview
 
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Decodelabs-e-commerce-sales-dataset.png)
+
+Dashboard Visuals
+| --- | --- |
+| Monthly Revenue Trend | Tracks revenue performance over time |
+| Top Products by Revenue | Highlights the products generating the highest revenue |
+| Order Status Distribution | Shows the breakdown of delivered, shipped, pending, returned, and cancelled orders |
+| Referral Source Distribution | Analyzes which channels contribute most to revenue |
+| Payment Method Distribution | Shows customer payment preferences 
 
 ## Outcome
 
