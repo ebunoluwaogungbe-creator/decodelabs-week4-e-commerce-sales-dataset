@@ -96,3 +96,7 @@ Dashboard Visuals
 
 The dashboard provided valuable insights into the company's sales performance, customer behavior, and operational efficiency. The analysis revealed key revenue drivers, customer preferences, and areas requiring improvement. High-performing products and referral channels were identified, while the distribution of order statuses highlighted opportunities to enhance customer satisfaction. Overall, the dashboard demonstrates how data visualization can transform raw transactional data into actionable insights that support informed business decisions and sustainable growth.
 
+Prepared by: Ebunjah
+Program: DecodeLabs Data Analytics Internship Program
+Project: Week 4 – Data Visualization And Insights
+
