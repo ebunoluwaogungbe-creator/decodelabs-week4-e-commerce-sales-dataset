@@ -41,23 +41,6 @@ The Dataset Contains Sales Information which includes the following:
 | Top Product | Chair($195,620) | 
 | Peak Month | Jun-2024($68,069) |
 
-## Dashboard Visuals
-
-### Monthly Revenue Trend
-Tracks revenue performance over time.
-
-### Top Products by Revenue
-Highlights the products generating the highest revenue.
-
-### Order Status Distribution
-Shows the breakdown of delivered, shipped, pending, returned, and cancelled orders.
-
-### Referral Source Distribution
-Analyzes which channels contribute most to revenue.
-
-### Payment Method Distribution
-Shows customer payment preferences.
-
 ## Key Insights
 
 - Total revenue reached $1.26M.
@@ -67,7 +50,7 @@ Shows customer payment preferences.
 - Online and credit card payments were the most commonly used payment methods.
 - Returned and cancelled orders represented a significant share of all orders.
 
-## Project Screenshot
+## Dashboard Preview
 
 ![Dashboard Overview](Images/dashboard-overview.png)
 
