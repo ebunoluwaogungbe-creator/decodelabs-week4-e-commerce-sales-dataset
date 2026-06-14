@@ -30,8 +30,16 @@ The Dataset Contains Sales Information which includes the following:
 - Slicers
 
 ## Dataset Summary
-
+| Metric | Value |
 |---|---|
+| Total Revenue | $1.26M | 
+| Total Orders | 3,535 | 
+| Total Customers | 1,200 | 
+| Average Order Value | $357.69 | 
+| Average Items per Cart | 5 | 
+| Date Range | 2023-2025 | 
+| Top Product | Chair($195,620) | 
+| Peak Month | Jun-2024($68,069) |
 
 ## Dashboard Visuals
 
